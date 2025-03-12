@@ -1,0 +1,14 @@
+/Users/jarrettplate/RiderProjects/AdditionalFeatures/bin/Debug/net9.0/AdditionalFeatures
+/Users/jarrettplate/RiderProjects/AdditionalFeatures/bin/Debug/net9.0/AdditionalFeatures.deps.json
+/Users/jarrettplate/RiderProjects/AdditionalFeatures/bin/Debug/net9.0/AdditionalFeatures.runtimeconfig.json
+/Users/jarrettplate/RiderProjects/AdditionalFeatures/bin/Debug/net9.0/AdditionalFeatures.dll
+/Users/jarrettplate/RiderProjects/AdditionalFeatures/bin/Debug/net9.0/AdditionalFeatures.pdb
+/Users/jarrettplate/RiderProjects/AdditionalFeatures/obj/Debug/net9.0/AdditionalFeatures.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jarrettplate/RiderProjects/AdditionalFeatures/obj/Debug/net9.0/AdditionalFeatures.AssemblyInfoInputs.cache
+/Users/jarrettplate/RiderProjects/AdditionalFeatures/obj/Debug/net9.0/AdditionalFeatures.AssemblyInfo.cs
+/Users/jarrettplate/RiderProjects/AdditionalFeatures/obj/Debug/net9.0/AdditionalFeatures.csproj.CoreCompileInputs.cache
+/Users/jarrettplate/RiderProjects/AdditionalFeatures/obj/Debug/net9.0/AdditionalFeatures.dll
+/Users/jarrettplate/RiderProjects/AdditionalFeatures/obj/Debug/net9.0/refint/AdditionalFeatures.dll
+/Users/jarrettplate/RiderProjects/AdditionalFeatures/obj/Debug/net9.0/AdditionalFeatures.pdb
+/Users/jarrettplate/RiderProjects/AdditionalFeatures/obj/Debug/net9.0/AdditionalFeatures.genruntimeconfig.cache
+/Users/jarrettplate/RiderProjects/AdditionalFeatures/obj/Debug/net9.0/ref/AdditionalFeatures.dll
